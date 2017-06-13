@@ -25,21 +25,22 @@
   <body>
 
     <div class="container">
+      <div class="row marketing">
+        <img src="images/f8f_logo.png" alt="Forty8Fifty Labs">
+      </div>
       <div class="header clearfix">
         <h3 class="text-muted">Simple Docker Web Example</h3>
       </div>
 
       <div class="jumbotron">
         <h1>Hello, Docker!</h1>
-        <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+        <p class="lead">This is a simple web application to showcase how containers work in a scalable environment.</p>
         <p>This docker container ID is:
         <strong><?php echo gethostname(); ?></strong>
     </p>
       </div>
 
-      <div class="row marketing">
-        <img src="images/f8f_logo.png" alt="Forty8Fifty Labs">
-      </div>
+
 
       <footer class="footer">
         <p>&copy; 2017 Forty8Fifty Labs, Inc.</p>
