@@ -26,13 +26,6 @@
 
     <div class="container">
       <div class="header clearfix">
-        <nav>
-          <ul class="nav nav-pills pull-right">
-            <li role="presentation" class="active"><a href="#">Home</a></li>
-            <li role="presentation"><a href="#">About</a></li>
-            <li role="presentation"><a href="#">Contact</a></li>
-          </ul>
-        </nav>
         <h3 class="text-muted">Simple Docker Web Example</h3>
       </div>
 
@@ -40,9 +33,9 @@
         <h1>Hello, Docker!</h1>
         <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
         <p>This docker container ID is:
-        <?php
+        <strong><?php
             echo gethostname();
-        ?>
+        ?></strong>
     </p>
       </div>
 
