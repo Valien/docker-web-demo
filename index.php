@@ -35,7 +35,7 @@
       <div class="jumbotron">
         <h1>Hello, Docker!</h1>
         <p class="lead">This is a simple web application to showcase how containers work in a scalable environment.</p>
-        <p>This docker container ID is:
+        <p>This docker hostname is:
         <strong><?php echo gethostname(); ?></strong>
     </p>
       </div>
