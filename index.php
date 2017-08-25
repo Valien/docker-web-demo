@@ -33,7 +33,7 @@
       </div>
 
       <div class="jumbotron">
-        <h1>Hello, Worldpay!</h1>
+        <h1>Hello, Bamboo!</h1>
         <p class="lead">This is a simple web application to showcase how containers work in a scalable environment.</p>
         <p>This docker hostname is:
         <strong><?php echo gethostname(); ?></strong>
