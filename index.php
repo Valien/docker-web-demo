@@ -34,7 +34,7 @@
 
       <div class="jumbotron">
         <h1>Hello, Bamboo!</h1>
-        <h2>Will this build?</h2>
+        <h2>Will this build? Will it break?</h2>
         <p class="lead">This is a simple web application to showcase how containers work in a scalable environment.</p>
         <p>This docker hostname is:
         <strong><?php echo gethostname(); ?></strong>
