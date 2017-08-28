@@ -29,7 +29,7 @@
         <img src="images/f8f_logo.png" alt="Forty8Fifty Labs">
       </div>
       <div class="header clearfix">
-        <h3 class="text-muted">Simple Docker Web Example</h3>
+        <h3 class="text-muted">Simple Bamboo Web Build</h3>
       </div>
 
       <div class="jumbotron">
